@@ -1,2 +1,7 @@
 log.txt
 /dataset
+
+
+# Security & Build Hygeine additions
+.env
+*.env
